@@ -72,30 +72,27 @@ Talk about **PEOPLE**, **not DATA**. Data is abstract. Make it tangible for us, 
 
 We believe in:
 
-(External Credibility)
+#### External Credibility
 
-- **Authorities**:
+**Authorities**: The president, the police, your mom...
 
-- Experts: They have studied. They know what they’re talking about.
+**Experts**: They have studied. They know what they’re talking about.
 
-- Celebrities: We want to be like them. If they believe this, so do we!
+**Celebrities**: We want to be like them. If they believe this, so do we!
 
-**Anti-authority**:
+**Anti-authority**: “_concrete authorities_”. People that have been trough. A soldier talking about surviving a war, a Covid survivor talking about being breathless...
 
-- “concrete authorities”. People that have been trough.
+#### Internal Credibility
 
-(Internal Credibility)
+**Details**: Makes it seem more real. (Same principle of concreteness: brings it to our common sense reality)
 
-- **Details**: Make it seem more real. (Same principle of concreteness.
-  Brings it to our common sense reality)
+**Data/Statistics**: In an accessible way!!!! Make statistics concrete. Analogies. (Numbers must be auxiliary !)
 
-- **Statistics**: In an accessible way!!!! Make statistics concrete. Analogies.
+**“Sinatra Test”**: _“If I can make it there, I can make it anywhere!”_ (If someone did it, why not you ?)
 
-- **“Sinatra Test”**: “If I can make it there, I can make it anywhere!”
+**Testable Credential**: “See by yourself”, “Test before you buy”, “money back if not satisfied”. Offering tangible guarantees that this is legit.
 
-- **Testable Credential**: “See by yourself”, “Test before you buy”, “money back if not satisfied”.
-
-  ***
+---
 
 ### Emotional
 
