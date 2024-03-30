@@ -74,13 +74,13 @@ We believe in:
 
 #### External Credibility
 
+**Anti-authority**: “_concrete authorities_”. People that have been trough. A soldier talking about surviving a war, a Covid survivor talking about being breathless...
+
 **Authorities**: The president, the police, your mom...
 
 **Experts**: They have studied. They know what they’re talking about.
 
 **Celebrities**: We want to be like them. If they believe this, so do we!
-
-**Anti-authority**: “_concrete authorities_”. People that have been trough. A soldier talking about surviving a war, a Covid survivor talking about being breathless...
 
 #### Internal Credibility
 
